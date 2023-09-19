@@ -3,13 +3,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285174306183', 'NANZONE', true],
-  ['6285880029379'], 
-  ['6285174306183'] 
+  ['6285213510153', 'Adit', true], 
 ] //Numeros de owner 
 
-global.mods = ['6285174306183'] 
-global.prems = ['6285174306183', '6285174306183', '6285174306183']
+global.mods = ['6285213510153'] 
+global.prems = ['6285213510153']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,11 +23,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'KISUKE┃ᴮᴼᵀ' 
-global.author = '@nanzone' 
-global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/nansoffc\n' 
-global.dygp = 'https://chat.whatsapp.com/GkfU6lFBfeAD6pvBNjyd5d'
-global.fgsc = 'https://github.com/nanzone' 
+global.packname = 'Adit' 
+global.author = '@AditV4' 
+global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/_adittt4u\n' 
+global.dygp = 'https://chat.whatsapp.com/Lr7Oa7zY8E8F0ZmJLOTklX'
+global.fgsc = 'https://github.com/4dittt' 
 global.fgyt = 'http://info-nanzone.nans.tech/'
 global.fgpyp = 'https://saweria.co/nansofficial'
 global.fglog = 'https://i.ibb.co/tbHVZZ5/20230528-113117.png' 
